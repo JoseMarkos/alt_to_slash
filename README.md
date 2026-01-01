@@ -1,0 +1,3 @@
+# ejecutar
+
+xmodmap ~/.Xmodmap
